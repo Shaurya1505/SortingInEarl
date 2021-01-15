@@ -1,4 +1,4 @@
-The above code is a code to sort a list of numbers in "Earlang" programming language.
+The above code is a code to sort a list of numbers in "Erlang" programming language.
 
 The above code will give the following output: 
 
